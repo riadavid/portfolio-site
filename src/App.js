@@ -21,8 +21,7 @@ function App() {
             <section className="section">
                 <h2>🚀 Projects</h2>
                 <ul>
-                    <li><strong>Smart Attendance System</strong> – Face recognition + automation</li>
-                    <li><strong>Cloud Deployment Script</strong> – Bash + AWS CLI + GitHub Actions</li>
+                  
                     <li><strong>Portfolio Site</strong> – You're looking at it!</li>
                 </ul>
             </section>
