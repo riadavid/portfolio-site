@@ -4,7 +4,7 @@ function App() {
     return (
         <div className="container">
             <header className="section">
-                <h1>👋 Hii, I'm Ria David</h1>
+                <h1>👋 Heyyy, I'm Ria David</h1>
                 <p>Aspiring DevOps Engineer & Software Developer</p>
                 <p>Mercedes Benz Dreamer 🚗 | Final Year CS Student</p>
             </header>
