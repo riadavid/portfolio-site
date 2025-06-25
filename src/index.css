@@ -19,7 +19,7 @@ a {
 /* Container */
 .container {
     padding: 0.5rem;
-    max-width: 800px;
+    max-width: 200px;
     margin: auto;
 }
 
