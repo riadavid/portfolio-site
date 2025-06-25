@@ -21,7 +21,7 @@ function App() {
             <section className="section">
                 <h2>🚀 Projects</h2>
                 <ul>
-                  
+                    <li><strong>Trainer Locator App</strong></li>
                     <li><strong>Portfolio Site</strong> – You're looking at it!</li>
                 </ul>
             </section>
