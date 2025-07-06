@@ -29,8 +29,8 @@ function App() {
                     <section className="section">
                         <h2>💻 Tech Stack</h2>
                         <ul>
-                            <li>Languages: Python, Java, JavaScript</li>
-                            <li>Tools: Git, Docker, Linux, GitHub Actions</li>
+                            <li>Languages: Python, C++, Java</li>
+                            <li>Tools: Git, Docker, GitHub Actions</li>
                             <li>Learning: DSA, System Design</li>
                         </ul>
                     </section>
@@ -38,8 +38,9 @@ function App() {
                     <section className="section">
                         <h2>🚀 Projects</h2>
                         <ul>
-                            <li><strong>Trainer Locator App</strong></li>
-                            <li><strong>Portfolio Site</strong> – You're looking at it!</li>
+                            <li><strong> Visitor Management System using Streamlit</strong></li>
+                            <li><strong>Trainer Locator App using Streamlit</strong></li>
+                            <li><strong>Portfolio Site using React</strong> – You're looking at it!</li>
                         </ul>
                     </section>
 
