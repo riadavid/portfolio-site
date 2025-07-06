@@ -29,7 +29,7 @@ function App() {
                     <section className="section">
                         <h2>💻 Tech Stack</h2>
                         <ul>
-                            <li>Languages: </li>
+                            <li>Languages: Python, C++, Java</li>
                             <li>Tools: Git, Docker, GitHub Actions</li>
                             <li>Learning: DSA, System Design</li>
                         </ul>
