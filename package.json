@@ -22,7 +22,7 @@
 
     "react-dom": "^19.1.0",
 
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
 
     "web-vitals": "^2.1.4"
 
@@ -33,11 +33,17 @@
     "start": "react-scripts start",
 
     "build": "react-scripts build",
+
     "test": "react-scripts test",
+
     "eject": "react-scripts eject",
+
     "quickdeploy": "npm run build && npm run deploy",
+
     "predeploy": "npm run build",
+
     "publish": "git add . && git commit -m \"Auto update\" && git push origin master && npm run deploy",
+
     "deploy": "gh-pages -d build"
 
   },
