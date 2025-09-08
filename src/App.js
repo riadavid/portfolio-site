@@ -23,11 +23,11 @@ function Hero() {
       <div className="hero-left">
         <p className="eyebrow">UX • UI • Product • Frontend</p>
         <h1>
-          Hi — I'm <span className="name">Ria David</span>
+          Hi - I'm <span className="name">Ria David</span>
         </h1>
         <p className="lead">
           UX/UI Designer & Software Developer focused on clear interfaces and
-          delightful experiences. Final year CS student — building usable tools
+          delightful experiences. Final year CS student - building usable tools
           and thoughtful products.
         </p>
 
